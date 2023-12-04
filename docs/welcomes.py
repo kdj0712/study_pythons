@@ -10,5 +10,9 @@ print(numbers)
 # 데이터 타입 : 문장형 or 숫자형 등 변수에 대한 정의
 
 # if 구문 사용
-if 5 > 2:
+print(numbers)
+
+if 5 > 2: # (콜론): 과 tab은 한 쌍의 묶음이다.
+  
   print("Five is greater than two!")
+print("end")
