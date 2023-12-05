@@ -6,15 +6,14 @@ while main < 9:
     print("{} = 5 * {}".format(answer,main))
     pass
 print("End Program!")
-
-
-# num_want = input().split()
+# question = "몇 단을 보실건가요? : "
+# num_want = input("{}".format(question)).split()
 # want = int(num_want)
 # main = 0
 # while main < 9:
 #     pass
-#     main = main + 1
 #     answer = want * main 
+#     main = main + 1
 #     print("{} = {} * {}".format(answer,want,main))
 #     pass
 # print("End Program!")
