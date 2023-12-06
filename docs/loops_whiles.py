@@ -24,7 +24,7 @@ while True :
         break
     pass
 
-# While의 정지가 되는 첫번째 방법 : Case without Break
+# While의 정지가 되는 두번째 방법 : Case without Break
 num_virtual = 0
 while num_virtual < 5:
     pass

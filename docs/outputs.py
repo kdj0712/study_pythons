@@ -16,3 +16,10 @@ if 5 > 2: # (콜론): 과 tab은 한 쌍의 묶음이다.
   
   print("Five is greater than two!")
 print("end")
+
+# 1라인에 출력하기
+first = "First"
+second = "Second"
+print("first : {}".format(first), end=", 다음 줄")
+print("second : {}".format(second))
+print("End Program!")

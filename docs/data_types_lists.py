@@ -11,6 +11,18 @@ len(list_numerics)
 len(list_mixs)
 # 6
 
-
 ## for문 활용 후 다시 오기
+
+# index(색인 = 위치값)
+# index 로 값 확인하여 가져오기
+# list_fruits [0] # 색인하는 인덱스도 개별적인 변수로 볼 수 있다. = 1차원(행)
+# 'melon'
+# list_fruits [3]
+# 'cherry'
+# 보유하고 있는 값의 개수보다 큰 위치값으로 문의하는 경우
+# list_fruits [5]
+# Traceback (most recent call last):
+#   File "<string>", line 1, in <module>
+# IndexError: list index out of range
+list_fruits = ["melon","apple", "banana", "cherry"]
 pass

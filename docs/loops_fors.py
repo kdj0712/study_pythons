@@ -38,3 +38,56 @@ for number in numerics: # for in = for 문이 작용할 위치를 지정
     #print("Number : {}".format(number))
     print("Number : {}".format(number+2))
 print("End Program!")
+
+## 설문답변 받기
+# 1. 컴퓨터 사용에 있어 가장 중요하다고 생각하는 요소는 무엇인가요?
+# A. 빠른 처리 속도   B. 편리한 사용자 인터페이스   C. 안정적인 시스템 운영   D. 다양한 기능   E 높은 보안성
+# 당신은 {} 번을 선택하셨습니다.
+# 2. 주로 사용하는 컴퓨터의 운영체제는 무엇인가요?
+# A. Windows   B. Mac OS   C. Linux   D. Chrome OS   E 기타
+# 당신은 {} 번을 선택하셨습니다.
+# 3. 개발자에게 인기있는 운영체제는 무엇인가요?
+# A. Windows   B. Mac OS   C. Linux   D. Chrome OS   E 기타
+# 당신은 {} 번을 선택하셨습니다.
+
+list_polls =["1. 컴퓨터 사용에 있어 가장 중요하다고 생각하는 요소는 무엇인가요?" 
+            ,"A. 빠른 처리 속도   B. 편리한 사용자 인터페이스   C. 안정적인 시스템 운영   D. 다양한 기능   E 높은 보안성"
+            ,"2. 주로 사용하는 컴퓨터의 운영체제는 무엇인가요?"
+            ,"A. Windows   B. Mac OS   C. Linux   D. Chrome OS   E 기타"
+            ,"3. 개발자에게 인기있는 운영체제는 무엇인가요?"
+            ,"A. Windows   B. Mac OS   C. Linux   D. Chrome OS   E 기타"
+            ]
+# for num_count in [0,2,4]:
+#     # str_content = list_polls[num_count]
+#     # print("{}".format(str_content))
+#     str_question = list_polls[num_count]
+#     print("{}".format(str_question))
+#     str_answer = list_polls[num_count+1]
+#     print("{}".format(str_answer))
+#     input("당신의 선택은?(A~E를 1,2,3,4,5 중 선택) : ")
+#     print("------------------------")
+#     pass
+# print("End Program!")
+
+# 각 항목 별 많이 입력받은 값의 항목 당 개수를 구하는 방식
+list_statistics = [0,0,0,0,0] # 답항의 개수 만큼 0을 기재함
+
+for num_count in [0,2,4]:
+    # str_content = list_polls[num_count]
+    # print("{}".format(str_content))
+    str_question = list_polls[num_count]
+    print("{}".format(str_question))
+    str_answer = list_polls[num_count+1]
+    print("{}".format(str_answer))
+
+    str_questions_result = input("당신의 선택은?(A~E를 1,2,3,4,5 중 선택) : ")
+    num_questions_result = int(str_questions_result) #문자를 숫자로 변환
+    index = num_questions_result - 1 # index의 위치값
+    list_statistics[index] = list_statistics[index] + 1
+    
+    print("------------------------")
+    pass
+
+print("선호하는 답항 : {}".format(list_statistics))
+
+print("End Program!")
