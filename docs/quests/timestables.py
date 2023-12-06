@@ -27,4 +27,6 @@ while main < 9:
     print("{} * {} = {}".format(want,main,want * main))
     if main > 9:
         pass
-    pass
+pass
+
+
