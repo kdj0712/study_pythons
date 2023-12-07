@@ -1,12 +1,13 @@
 # 기본 function 형식 - stand-bying. 호출되었을 때만 기능.
-def functions(): 
-    pass
+def function_name(): 
+    pass       # 기능할 내용 입력하는 자리
     return 0
 
 ## 그냥 연습
 def my_function():
   print("Hello from a function")
 
+# function의 호출
 my_function()
 pass
 
@@ -18,4 +19,4 @@ def print_question_and_answer():
     print(str_anyone)
     return 0
 
-print_question_and_answer()
+# print_question_and_answer()
