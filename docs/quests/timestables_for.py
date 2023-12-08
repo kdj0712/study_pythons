@@ -4,5 +4,3 @@ for num_base in [1,2,3,4,5,6,7,8,9]:
     print("{} * {} = {}".format(number,num_base,number*num_base))
     pass
 print("end program")
-
-
