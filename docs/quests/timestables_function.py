@@ -1,6 +1,6 @@
 def multiply():
     while True:
-        number = input("확인할 구구단을 입력해 주세요 : ")
+        number = input("확인할 구구단을 입력해 주세요(원하지 않으실 경우 'q'를 눌러주세요) : ")
         if number == 'q':
             break
         for num_base in [1,2,3,4,5,6,7,8,9]:
