@@ -2,7 +2,7 @@
 | 구분 | 소스 | 문제설명 | 출처 |
 | -- | -- | -- | -- |
 | 입출력 | [py](./codingtests/chapter01/2557.py) | Hello world!를 출력 | [백준](https://www.acmicpc.net/problem/2557)|
-| 입출력 | [py](./codingtests/chapter01/1000.py) | A + B | [백준][백준(https://www.acmicpc.net/problem/1000)] |
+| 입출력 | [py](./codingtests/chapter01/1000.py) | A + B | [백준](https://www.acmicpc.net/problem/1000) |
 | 입출력 | [py](./codingtests/chapter01/1001.py) | A - B | [백준] (https://www.acmicpc.net/problem/1001) |
 | 입출력 | [py](./codingtests/chapter01/10998.py) | A * B | [백준] (https://www.acmicpc.net/problem/10998) |
 | 입출력 | [py](./codingtests/chapter01/1008.py) | A / B | [백준] (https://www.acmicpc.net/problem/1008) |
