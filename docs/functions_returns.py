@@ -40,12 +40,12 @@ def multiply():
 num_multiply = multiply()
 print("num_multiply() return value : {}".format(num_multiply))
 
-# list_fruits = ["melon","apple", "banana", "cherry"]
-# list_fruits[0]
-# def return_list(): 
-#     list_fruits = ["melon","apple", "banana", "cherry"]
-#     return list_fruits  # 묶여있는 값을 1개라고 인식하기 때문에 list를 value로 지정할 수 있다.
-# print("return_list() return result : {}".format(return_list()))
+list_fruits = ["melon","apple", "banana", "cherry"]
+list_fruits[0]
+def return_list(): 
+    list_fruits = ["melon","apple", "banana", "cherry"]
+    return list_fruits  # 묶여있는 값을 1개라고 인식하기 때문에 list를 value로 지정할 수 있다.
+print("return_list() return result : {}".format(return_list()))
 
 # 리스트에 입력된 내용 중 특정 값을 index로 return
 def return_listbyindex(): 
