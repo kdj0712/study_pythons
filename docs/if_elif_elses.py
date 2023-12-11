@@ -48,3 +48,32 @@ else :          # 나머지 : F
     pass
     print("당신의 점수는 {}점 이하이기 때문에 F 등급 입니다.".format(my_score))
 print("End Program!")
+
+# 부등호 사용 시 결과는 True or False(boolean)
+# 논리 연산자 (True or False에 대한 결과값)
+
+first = 200
+second = 33
+third = 500
+if first > second and third > first :
+    print("Both conditions are True")
+# 어떠한 condition의 사용을 하기 이전 각 각의 결과를 조합
+first > second
+# True
+third > first
+# True
+(first > second) and (third > first)
+# True
+
+# 부정을 나타내고자 할 떄 해당 구문 안에 삽입하며
+# 만약 not이 기능하지 않게 하려면 조건의 연산자를 바꾸어서 사용할 수 있게 하는 것이 가능하다.
+if not (first > second):
+    print("not (first > second)")
+    # False
+not (first < second)
+# True
+
+pass
+print("End Program!")
+
+
