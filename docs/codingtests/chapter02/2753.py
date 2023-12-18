@@ -9,14 +9,10 @@
 # 출력
 ## 첫째 줄에 윤년이면 1, 아니면 0을 출력한다.
 a = int(input())
-a %= 100
-while True:
-    for x in a % 400:
-        pass
-        if a % 4:
-            print("0")
-            break
-        else:
-            print("1")  
-            break
+if (a % 4 == 0 and a % 100 != 0) or (a % 400 == 0):
+    print("1")
+else:
+    print("0")
 
+
+# 사용자로부터 입력받은 숫자를 윤년인지 판단할 때
