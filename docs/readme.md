@@ -18,3 +18,9 @@
 | 조건문 | [py](./codingtests/chapter02/1330.py) | 두 수 비교하기 | [백준](https://www.acmicpc.net/problem/1330) |
 | 조건문 | [py](./codingtests/chapter02/9498.py) | 시험 성적 | [백준](https://www.acmicpc.net/problem/9498) |
 | 조건문 | [py](./codingtests/chapter02/2753.py) | 윤년 | 
+
+### 코드블럭
+```
+~$ python ./solving_problems_functions.py
+~$ python ./solving_problems_classes.py
+```
