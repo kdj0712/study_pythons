@@ -15,9 +15,3 @@
 | 입출력 | [py](./codingtests/chapter01/11382.py) | 꼬마 정민 | [백준](https://www.acmicpc.net/problem/11382) |
 | 입출력 | [py](./codingtests/chapter01/10171.py) | 고양이 | [백준](https://www.acmicpc.net/problem/10171) |
 | 입출력 | [py](./codingtests/chapter01/10172.py) | 개 | [백준](https://www.acmicpc.net/problem/10172) |
-
-
-| -- | -- | -- | -- |
-| 조건문 | [py](./codingtests/chapter02/1330.py) | 두 수 비교하기 | [백준](https://www.acmicpc.net/problem/1330) |
-| 조건문 | [py](./codingtests/chapter02/9498.py) | 시험 성적 | [백준](https://www.acmicpc.net/problem/9498) |
-| 조건문 | [py](./codingtests/chapter02/2753.py) | 윤년 | 

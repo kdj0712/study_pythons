@@ -29,7 +29,7 @@ def input_score(self):
         self.list_score.append(score)
         
         
-list_correct_index
+# list_correct_index
         
 
 
