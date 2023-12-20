@@ -15,8 +15,6 @@
 | 입출력 | [py](./codingtests/chapter01/11382.py) | 꼬마 정민 | [백준](https://www.acmicpc.net/problem/11382) |
 | 입출력 | [py](./codingtests/chapter01/10171.py) | 고양이 | [백준](https://www.acmicpc.net/problem/10171) |
 | 입출력 | [py](./codingtests/chapter01/10172.py) | 개 | [백준](https://www.acmicpc.net/problem/10172) |
-
-
 | -- | -- | -- | -- |
 | 조건문 | [py](./codingtests/chapter02/1330.py) | 두 수 비교하기 | [백준](https://www.acmicpc.net/problem/1330) |
 | 조건문 | [py](./codingtests/chapter02/9498.py) | 시험 성적 | [백준](https://www.acmicpc.net/problem/9498) |
@@ -35,7 +33,7 @@
 
   <p> 문제와 보기와 답 <p>
 
-  |예제 탬플릿|보 기|정 답|
+  |예  제    탬  플  릿|보   기|정     답|
   |--|--|--|
   |데이터를 검색하고자 할 때 사용하는 언어는 무엇인가요?|	SQL  	HTML	Java	Python	|1|
   |중복된 데이터를 제거하고자 할 때 사용하는 용어는 무엇인가요?|	Delete	Update	Distinct	Select	|3|
