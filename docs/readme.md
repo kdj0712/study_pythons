@@ -1,9 +1,9 @@
 ### 코딩테스트
-#### Chapter 1
+#### Chapter 1 - 입출력과 사칙 연산
 
 <details>
 
-  <summary>Chapter 1</summary>
+  <summary>Chapter 1 - 입출력과 사칙 연산</summary>
 
   | 구분 | 소스 | 문제설명 | 출처 |
   | -- | -- | -- | -- |
@@ -23,11 +23,11 @@
 
 </details>
 
-#### Chapter 2
+#### Chapter 2 - 조건문
 
 <details>
 
-  <summary>Chapter 2</summary>
+  <summary>Chapter 2 - 조건문</summary>
 
   | 구분 | 소스 | 문제설명 | 출처 |
   | -- | -- | -- | -- |
@@ -37,12 +37,26 @@
   | 조건문 | [py](./coding_tests/chapter02/14681.py) | 사분면 고르기 | [백준](https://www.acmicpc.net/problem/14681) |
   | 조건문 | [py](./coding_tests/chapter02/2884.py) | 알람 시계 | [백준](https://www.acmicpc.net/problem/2884) |
   | 조건문 | [py](./coding_tests/chapter02/2525.py) | 오븐 시계 | [백준](https://www.acmicpc.net/problem/2525) |
-
-
-
+  | 조건문 | [py](./coding_tests/chapter02/2480.py) | 주사위 세개 | [백준](https://www.acmicpc.net/problem/2480) |
 
 </details>
 
+
+#### Chapter 3 - 반복문
+
+<details>
+
+  <summary>Chapter 3 - 반복문</summary>
+
+  | 구분 | 소스 | 문제설명 | 출처 |
+  | -- | -- | -- | -- |
+  | 반복문 | [py](./coding_tests/chapter03/2739.py) | 구구단 | [백준](https://www.acmicpc.net/problem/2739) |
+  | 반복문 | [py](./coding_tests/chapter03/10950.py) | A+B -3 | [백준](https://www.acmicpc.net/problem/10950) |
+  | 반복문 | [py](./coding_tests/chapter03/8393.py) | 합 | [백준](https://www.acmicpc.net/problem/8393) |
+  | 반복문 | [py](./coding_tests/chapter03/25304.py) | 영수증 | [백준](https://www.acmicpc.net/problem/25304) |
+
+
+</details>
 
 
 ### 코드블럭
