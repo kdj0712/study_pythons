@@ -7,3 +7,4 @@
 | 조건문 | [py](./coding_tests/chapter02/2753.py) | 윤년 | [백준](https://www.acmicpc.net/problem/2753) |
 | 조건문 | [py](./coding_tests/chapter02/14681.py) | 사분면 고르기 | [백준](https://www.acmicpc.net/problem/14681) |
 | 조건문 | [py](./coding_tests/chapter02/2884.py) | 알람 시계 | [백준](https://www.acmicpc.net/problem/2884) |
+| 조건문 | [py](./coding_tests/chapter02/2525.py) | 오븐 시계 | [백준](https://www.acmicpc.net/problem/2525) |
