@@ -11,3 +11,7 @@
 | 반복문 | [py](./coding_tests/chapter03/15552.py) | 빠른 A+B | [백준](https://www.acmicpc.net/problem/15552) |
 | 반복문 | [py](./coding_tests/chapter03/11021.py) | A+B-7 | [백준](https://www.acmicpc.net/problem/11021) |
 | 반복문 | [py](./coding_tests/chapter03/11022.py) | A+B-8 | [백준](https://www.acmicpc.net/problem/11022) |
+| 반복문 | [py](./coding_tests/chapter03/2438.py) | 별 찍기 - 1 | [백준](https://www.acmicpc.net/problem/2438) |
+| 반복문 | [py](./coding_tests/chapter03/2439.py) | 별 찍기 - 2 | [백준](https://www.acmicpc.net/problem/2439) |
+| 반복문 | [py](./coding_tests/chapter03/10952.py) | A+B - 5 | [백준](https://www.acmicpc.net/problem/10952) |
+| 반복문 | [py](./coding_tests/chapter03/10951.py) | A+B - 4 | [백준](https://www.acmicpc.net/problem/10951) |
