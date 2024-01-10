@@ -11,13 +11,12 @@
 # 출력
 
 # 첫째 줄에 입력으로 주어진 N개의 정수 중에 v가 몇 개인지 출력한다.
+x = int(input())
+num_list = list(map(int, input().split()))
+y = int(input())
+z = 0
+for j in num_list:
+    if j == y:
+        z += 1
 
-num = [None]
-x = int(input("시도할 횟수를 입력하세요 : "))
-for i in range(x):
-    print("{}회차 : ".format(i+1))
-    num = int(input())(i)
-    num.append()
-    y = int(input("찾으실 숫자를 입력하세요 : "))
-
-
+print(z)
