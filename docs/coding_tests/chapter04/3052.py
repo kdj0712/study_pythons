@@ -13,15 +13,42 @@
 # 출력
 
 # 첫째 줄에, 42로 나누었을 때, 서로 다른 나머지가 몇 개 있는지 출력한다.
+def conditions():
+    numbers=[]
+    for i in range(10):
+        number = int(input())
+        remain = number%42
+        numbers.append(remain)
+    return numbers
 
-big = int()
-for i in range(9):
-    
-    times = int(input())
-    if times > big:
-        big = times
-        big_index = i + 1
+def use_set(numbers):
+    numbers_set = set(numbers) #연산을 할 때 결과가 제일 빠르고 구문도 단순한 편이다.
+    total = len(numbers_set)
+    return print(total)
 
-print(big)
-print(big_index)
+def not_in(numbers): # 비교군인 입력받는 값이 많아질 경우 모두 비교하기 때문에 연산이 많아져서 속도면에서 불리
+    total = 0
+    unique_numbers = []
+    for num in numbers:
+        if num not in unique_numbers:
+            unique_numbers.append(num)
+    total = len(unique_numbers)
+    return print(total)
 
+def use_if(numbers): # 동일한 것이 있을 경우 바로 구문을 빠져나오기 떄문에 간결한 편이나 구문이 복잡한 편
+    unique_numbers = []
+    for num in numbers:
+        found = False
+        for unique_num in unique_numbers:
+            if unique_num == num:
+                found = True
+                break
+        if not found:
+            unique_numbers.append(num)
+    total = len(unique_numbers)
+    return print(total)
+
+condition = conditions()   
+# not_in(condition)
+# use_set(condition)
+use_if(condition)

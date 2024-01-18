@@ -82,6 +82,7 @@
   | 1차원 배열 | [py](./coding_tests/chapter04/10813.py) | 공 바꾸기 | [백준](https://www.acmicpc.net/problem/10813) |
   | 1차원 배열 | [py](./coding_tests/chapter04/5597.py) | 과제 안 내신 분..? | [백준](https://www.acmicpc.net/problem/5597) |
   | 1차원 배열 | [py](./coding_tests/chapter04/3052.py) | 나머지 | [백준](https://www.acmicpc.net/problem/3052) |
+  | 1차원 배열 | [py](./coding_tests/chapter04/1546.py) | 평균 | [백준](https://www.acmicpc.net/problem/1546) |
 
 
 </details>
