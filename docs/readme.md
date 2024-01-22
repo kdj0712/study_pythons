@@ -88,6 +88,22 @@
 </details>
 
 
+<details>
+
+  <summary>Chapter 5 - 문자열</summary>
+
+  | 구분 | 소스 | 문제설명 | 출처 |
+  | -- | -- | -- | -- |
+  | 1차원 배열 | [py](./coding_tests/chapter05/27866.py) | 문자와 문자열 | [백준](https://www.acmicpc.net/problem/27866) |
+  | 1차원 배열 | [py](./coding_tests/chapter05/2743.py) | 단어 길이 재기 | [백준](https://www.acmicpc.net/problem/2743) |
+  | 1차원 배열 | [py](./coding_tests/chapter05/9086.py) | 문자열 | [백준](https://www.acmicpc.net/problem/9086) |
+
+
+</details>
+
+
+
+
 
 ### 코드블럭
 ```
