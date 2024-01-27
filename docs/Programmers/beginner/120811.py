@@ -7,11 +7,19 @@
 # 정수 배열 array가 매개변수로 주어질 때, 중앙값을 return 하도록 solution 함수를 완성해보세요.
 
 def solution(array):
-    answer = 0
+    array = sorted(array)
+    s = len(array)
+    if s % 2 == 0:
+        s = (s / 2 ) - 1
+        s = int(s)
+    elif s % 2 != 0:
+        s = (s / 2)
+        s = int(s)
+    answer = array[s]
     return answer
 
 def solve():
-    array = [1, 2, 7, 10, 11]
+    array = [9, -1, 0]
     answer = solution(array)
     print("{}".format(answer))
     return

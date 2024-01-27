@@ -148,6 +148,10 @@
   | 입문 | [py](./Programmers/beginner/120813.py) | 짝수는 싫어요 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120813)|
   | 입문 | [py](./Programmers/beginner/120833.py) | 배열 자르기 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120833)|
   | 입문 | [py](./Programmers/beginner/120825.py) | 문자 반복 출력하기 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120825)|
+  | 입문 | [py](./Programmers/beginner/120841.py) | 점의 위치 구하기 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120841)|
+  | 입문 | [py](./Programmers/beginner/120910.py) | 세균 증식 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120910)|
+  | 입문 | [py](./Programmers/beginner/120811.py) | 중앙값 구하기 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120811)|
+  | 입문 | [py](./Programmers/beginner/120585.py) | 머쓱이보다 키 큰 사람 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120585)|
   </details>
 </details>
 
@@ -164,4 +168,5 @@
   <summary>예제 tamplets</summary>
   <p>추가적인 정보가 여기에 표시됩니다.</p>
 </details>
+
 
