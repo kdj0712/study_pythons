@@ -137,6 +137,17 @@
   | 입문 | [py](./Programmers/beginner/120818.py) | 옷가게 할인 받기 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120818)|
   | 입문 | [py](./Programmers/beginner/120898.py) | 편지 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120898)|
   | 입문 | [py](./Programmers/beginner/120809.py) | 배열 두 배 만들기 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120809)|
+  | 입문 | [py](./Programmers/beginner/120808.py) | 분수의 덧셈 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120808)|
+  | 입문 | [py](./Programmers/beginner/120814.py) | 피자 나눠 먹기(1) | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120814)|
+  | 입문 | [py](./Programmers/beginner/120816.py) | 피자 나눠 먹기(3) | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120816)|
+  | 입문 | [py](./Programmers/beginner/120830.py) | 양꼬치 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120830)|
+  | 입문 | [py](./Programmers/beginner/120822.py) | 문자열 뒤집기 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120822)|
+  | 입문 | [py](./Programmers/beginner/120847.py) | 최대값 만들기(1) | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120847)|
+  | 입문 | [py](./Programmers/beginner/120854.py) | 배열 원소의 길이 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120854)|
+  | 입문 | [py](./Programmers/beginner/120824.py) | 짝수 홀수 개수 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120824)|
+  | 입문 | [py](./Programmers/beginner/120813.py) | 짝수는 싫어요 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120813)|
+  | 입문 | [py](./Programmers/beginner/120833.py) | 배열 자르기 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120833)|
+  | 입문 | [py](./Programmers/beginner/120825.py) | 문자 반복 출력하기 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120825)|
   </details>
 </details>
 

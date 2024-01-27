@@ -6,10 +6,25 @@
 
 # 두 분수를 더한 값을 기약 분수로 나타냈을 때 분자와 분모를 순서대로 담은 배열을 return 하도록 solution 함수를 완성해보세요.
 
+def Euclidean(sum1, sum2):
+    while sum2 != 0:
+        [sum1, sum2] = [sum2, sum1%sum2]
+    return sum1
+
+
 def solution(numer1, denom1, numer2, denom2):
     answer = []
     sum1 = (numer1 * denom2) + (numer2 * denom1)
     sum2 = denom1 * denom2
+    sum3 = Euclidean(sum1,sum2)
+    if sum3 != 0:
+        sum1 = sum1/sum3
+        sum2 = sum2/sum3
+    else:
+        pass
+        
+    sum1 = int(sum1)
+    sum2 = int(sum2)
     answer = [sum1,sum2]
     return answer
 
