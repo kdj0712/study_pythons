@@ -152,6 +152,7 @@
   | 입문 | [py](./Programmers/beginner/120910.py) | 세균 증식 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120910)|
   | 입문 | [py](./Programmers/beginner/120811.py) | 중앙값 구하기 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120811)|
   | 입문 | [py](./Programmers/beginner/120585.py) | 머쓱이보다 키 큰 사람 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120585)|
+  | 입문 | [py](./Programmers/beginner/120889.py) | 삼각형의 완성조건 (1) | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120889)|
   </details>
 </details>
 
