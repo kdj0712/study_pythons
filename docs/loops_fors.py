@@ -91,3 +91,15 @@ for num_count in [0,2,4]:
 print("선호하는 답항 : {}".format(list_statistics))
 
 print("End Program!")
+
+
+# 압축된 For문
+numerics = [0, 1, 2, 3, 4]
+numerics_list = []
+for number in numerics: # for in = for 문이 작용할 위치를 지정
+    result = number + 2
+    numerics_list.append(result)
+    pass
+print(numerics_list)
+print ([number for number in numerics])
+
