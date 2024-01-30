@@ -33,3 +33,5 @@
 | 입문 | [py](./120811.py) | 중앙값 구하기 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120811)|
 | 입문 | [py](./120585.py) | 머쓱이보다 키 큰 사람 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120585)|
 | 입문 | [py](./120889.py) | 삼각형의 완성조건 (1) | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120889)|
+| 입문 | [py](./120826.py) | 특정 문자 제거하기 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120826)|
+| 입문 | [py](./120836.py) | 순서쌍의 개수 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120836)|

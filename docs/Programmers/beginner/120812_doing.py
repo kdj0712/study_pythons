@@ -9,6 +9,7 @@
 def solution(array):
     a = []
     b = []
+    new_answer = [item for item in array if item != array] 
     for i in range(len(array)):
         y = array.count(array[i]) 
         if y == 1:
