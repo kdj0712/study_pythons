@@ -155,6 +155,10 @@
   | 입문 | [py](./Programmers/beginner/120889.py) | 삼각형의 완성조건 (1) | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120889)|
   | 입문 | [py](./Programmers/beginner/120826.py) | 특정 문자 제거하기 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120826)|
   | 입문 | [py](./Programmers/beginner/120836.py) | 순서쌍의 개수 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120836)|
+  | 입문 | [py](./Programmers/beginner/120583.py) | 중복된 숫자 개수 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120583)|
+  | 입문 | [py](./Programmers/beginner/120819.py) | 아이스 아메리카노 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120819)|
+  | 입문 | [py](./Programmers/beginner/120908.py) | 문자열안에 문자열 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120908)|
+  | 입문 | [py](./Programmers/beginner/120849.py) | 모음 제거 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120849)|
   </details>
 </details>
 

@@ -6,24 +6,18 @@
 
 # 머쓱이가 가지고 있는 돈 money가 매개변수로 주어질 때, 머쓱이가 최대로 마실 수 있는 아메리카노의 잔 수와 남는 돈을 순서대로 담은 배열을 return 하도록 solution 함수를 완성해보세요.
 
-def solution(price):
-    answer = 0
-    if 100000> price > 0:
-        answer = (price)*1
-    elif 300000 > price >= 100000:
-        answer = (price)*0.95
-        answer = int(answer)
-    elif 500000 > price >= 300000:
-        answer = (price)*0.9
-        answer = int(answer)
-    elif price >= 500000:
-        answer = (price)*0.8
-        answer = int(answer)
+def solution(money):
+    answer = []
+    answer1 = money / 5500
+    answer1 = int(answer1)
+    answer2 = money % 5500
+    answer2 = int(answer2)
+    answer = [answer1,answer2]
     return answer
 
 def solve():
-    price = int(input())
-    answer = solution(price)
+    money = 15000
+    answer = solution(money)
     print("{}".format(answer))
     return
 
