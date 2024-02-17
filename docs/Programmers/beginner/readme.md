@@ -39,3 +39,8 @@
 | 입문 | [py](./120819.py) | 아이스 아메리카노 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120819)|
 | 입문 | [py](./120908.py) | 문자열안에 문자열 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120908)|
 | 입문 | [py](./120849.py) | 모음 제거 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120849)|
+| 입문 | [py](./120906.py) | 자릿수 더하기 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120906)|
+| 입문 | [py](./120851.py) | 숨어있는 숫자의 덧셈(1) | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120851)|
+| 입문 | [py](./120905.py) | n의 배수 고르기 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120905)|
+| 입문 | [py](./120839.py) | 가위 바위 보 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120839)|
+| 입문 | [py](./120892.py) | 암호 해독 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120892)|
