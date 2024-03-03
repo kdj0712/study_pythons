@@ -44,3 +44,10 @@
 | 입문 | [py](./120905.py) | n의 배수 고르기 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120905)|
 | 입문 | [py](./120839.py) | 가위 바위 보 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120839)|
 | 입문 | [py](./120892.py) | 암호 해독 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120892)|
+| 입문 | [py](./120893.py) | 대문자와 소문자 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120893)|
+| 입문 | [py](./120837.py) | 개미 군단 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120837)|
+| 입문 | [py](./120845.py) | 주사위의 개수 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120845)|
+| 입문 | [py](./120899.py) | 가장 큰 수 찾기 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120899)|
+| 입문 | [py](./120862.py) | 최대값 만들기(2) | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120862)|
+| 입문 | [py](./120895.py) | 인덱스 바꾸기 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120895)|
+| 입문 | [py](./120823.py) | 직각삼각형 출력하기 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120823)|
