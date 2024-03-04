@@ -51,3 +51,7 @@
 | 입문 | [py](./120862.py) | 최대값 만들기(2) | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120862)|
 | 입문 | [py](./120895.py) | 인덱스 바꾸기 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120895)|
 | 입문 | [py](./120823.py) | 직각삼각형 출력하기 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120823)|
+| 입문 | [py](./120897.py) | 약수 구하기 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120897)|
+| 입문 | [py](./120844.py) | 배열 회전시키기 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120844)|
+| 입문 | [py](./120815.py) | 피자 나눠 먹기(2) | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120815)|
+| 입문 | [py](./120891.py) | 369게임 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120891)|
