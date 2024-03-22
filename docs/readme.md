@@ -175,6 +175,8 @@
   | 입문 | [py](./Programmers/beginner/120844.py) | 배열 회전시키기 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120844)|
   | 입문 | [py](./Programmers/beginner/120815.py) | 피자 나눠 먹기(2) | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120815)|
   | 입문 | [py](./Programmers/beginner/120891.py) | 369게임 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120891)|
+  | 입문 | [py](./Programmers/beginner/120903.py) | 배열의 유사도 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120903)|
+  | 입문 | [py](./Programmers/beginner/120909.py) | 제곱수 판별하기 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120909)|
   </details>
 </details>
 

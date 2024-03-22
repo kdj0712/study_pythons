@@ -7,10 +7,12 @@
 # 문자열 배열 s1과 s2가 주어질 때 같은 원소의 개수를 return하도록 solution 함수를 완성해주세요.
 
 def solution(str1, str2):
-    if str2 in str1:
-        answer = 1
-    else:
-        answer = 2 
+    answer = 0
+    for x in range(len(str2)):
+        if str2[x] in str1: 
+            answer = answer + 1
+        else:
+            answer
     return answer
 
 def solve():
