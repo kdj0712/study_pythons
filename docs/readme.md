@@ -177,6 +177,10 @@
   | 입문 | [py](./Programmers/beginner/120891.py) | 369게임 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120891)|
   | 입문 | [py](./Programmers/beginner/120903.py) | 배열의 유사도 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120903)|
   | 입문 | [py](./Programmers/beginner/120909.py) | 제곱수 판별하기 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120909)|
+  | 입문 | [py](./Programmers/beginner/120850.py) | 문자열 정렬하기 (1) | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120850)|
+  | 입문 | [py](./Programmers/beginner/120904.py) | 숫자 찾기 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120904)|
+  | 입문 | [py](./Programmers/beginner/120911.py) | 문자열 정렬하기(2) | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120911)|
+
   </details>
 </details>
 
