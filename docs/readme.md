@@ -4,7 +4,6 @@
 <details>
   <summary>Baekjoon</summary>
 
-
   #### Chapter 1 - 입출력과 사칙 연산
 
   <details>
@@ -47,7 +46,6 @@
 
   </details>
 
-
   #### Chapter 3 - 반복문
 
   <details>
@@ -71,7 +69,6 @@
 
   </details>
 
-
   #### Chapter 4 - 1차원 배열
 
   <details>
@@ -90,10 +87,10 @@
   | 1차원 배열 | [py](./coding_tests/chapter04/3052.py) | 나머지 | [백준](https://www.acmicpc.net/problem/3052) |
   | 1차원 배열 | [py](./coding_tests/chapter04/1546.py) | 평균 | [백준](https://www.acmicpc.net/problem/1546) |
 
-
   </details>
 
   #### Chapter 5 - 문자열
+
   <details>
 
   <summary>Chapter 5 - 문자열</summary>
@@ -105,14 +102,12 @@
   | 1차원 배열 | [py](./coding_tests/chapter05/9086.py) | 문자열 | [백준](https://www.acmicpc.net/problem/9086) |
   | 1차원 배열 | [py](./coding_tests/chapter05/11720.py) | 숫자의 합 | [백준](https://www.acmicpc.net/problem/11720) |
 
-
   </details>
 </details>
 
 ### Programmers
 <details>
   <summary>Programmers</summary>
-
 
   #### 코딩테스트 입문
 
@@ -180,7 +175,7 @@
   | 입문 | [py](./Programmers/beginner/120850.py) | 문자열 정렬하기 (1) | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120850)|
   | 입문 | [py](./Programmers/beginner/120904.py) | 숫자 찾기 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120904)|
   | 입문 | [py](./Programmers/beginner/120911.py) | 문자열 정렬하기(2) | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120911)|
-
+  | 입문 | [py](./Programmers/beginner/120888.py) | 중복된 문자 제거 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120888)|
   </details>
 </details>
 

@@ -10,9 +10,9 @@ def solution(my_string):
     answer = []
     my_string
     for x in range(len(my_string)):
-        if answer == my_string[x]:
+        if my_string[x] in answer:
             pass
-        elif answer != my_string[x]:
+        elif my_string[x] not in answer:
             answer.append(my_string[x])
     answer = ''.join(map(str, answer))
     return answer
