@@ -61,3 +61,4 @@
 | 입문 | [py](./120904.py) | 숫자 찾기 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120904)|
 | 입문 | [py](./120911.py) | 문자열 정렬하기(2) | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120911)|
 | 입문 | [py](./120911.py) | 중복된 문자 제거 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120911)|
+| 입문 | [py](./120956.py) | 옹알이(1) | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/120956)|
